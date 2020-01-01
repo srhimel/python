@@ -1,8 +1,5 @@
 import random
 option = ['rock','paper','scissors']
-
-
-
 draw = 0
 win = 0
 lost = 0
